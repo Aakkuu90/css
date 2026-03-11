@@ -1,0 +1,46 @@
+body{
+    background-color: orange;
+}
+
+h1{
+    color: blue;
+}
+h2{
+    background-color: lightgreen;
+    color: blue;
+}
+h4{
+    color: blue;
+}
+p{
+    color: white;
+}
+.ankit p{
+    color: blue;
+}
+h2 span{
+    color: red;
+}
+p span{
+    color: black;
+}
+li{
+    color: white;
+}
+ul li span{
+    background-color: yellow;
+    color: blue;
+}
+ul li a{
+    background-color: lightblue;
+    color: blue;
+}
+ol li{
+    color: red;
+}
+ol li span{
+    color: blue;
+}
+ol li a{
+    color: black;
+}
